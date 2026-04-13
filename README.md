@@ -28,6 +28,9 @@ A few of our recent contributions:
 - *[Profile based recommendation of code reviewers](https://link.springer.com/article/10.1007/s10844-017-0484-1)*
 - *[Fast JSON Parsing with GPU Metaprogramming](https://ieeexplore.ieee.org/document/10032381)*
 
+Industry papers:
+- *[Underutilization in Research GPU Clusters: SE Challenges](preprints/GPU_cluster_monitoring-msr2026.pdf)*
+
 ## 🛠 Featured Tool
 
 ### 🔍 [PatchScope](https://github.com/ncusi/PatchScope)
