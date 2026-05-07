@@ -15,15 +15,19 @@ We publish in top-tier venues like:
 - **IEEE Transactions on Software Engineering**
 - **Journal of Intelligent Information Systems**
 
-A few of our recent contributions:
-- *[Out of Sight, Still at Risk: The Lifecycle of Transitive Vulnerabilities in Maven](https://doi.org/10.1109/MSR66628.2025.00060)* ([arXiv:2504.04803](https://arxiv.org/abs/2504.04803))
-   - [Replication package](https://doi.org/10.6084/m9.figshare.27956667)
-- *[HaPy-Bug - Human Annotated Python Bug Resolution Dataset](https://doi.org/10.1109/MSR66628.2025.00024)* ([arXiv:2504.04810](https://arxiv.org/abs/2504.04810))
-  - [Replication package](https://doi.org/10.6084/m9.figshare.24448663)
-- *[How I Learned to Stop Worrying and Love ChatGPT](https://doi.org/10.1145/3643991.3645073)*
-  - [Replication package](https://doi.org/10.6084/m9.figshare.24771117)
-- *[The Secret Life of CVEs](https://doi.org/10.1109/MSR59073.2023.00056)* ([arXiv:2504.03863](https://arxiv.org/abs/2504.03863))
-  - [Replication package](https://doi.org/10.6084/m9.figshare.22007003)
+Our recent contributions:
+
+
+* EASE 2026 [These Aren't the Reviews You're Looking For How Humans Review AI-Generated Pull Requests](https://arxiv.org/abs/2605.02273))
+* MSR 2026 [Linux Kernel Recency Matters, CVE Severity Doesn't, and History Fades](https://arxiv.org/pdf/2601.22196)
+* MSR 2026 [Adversarial bug reports as a security risk in language model-based automated program repair](https://arxiv.org/pdf/2509.05372)
+* MSR Industry 2026 [Can Data Mining Help to Survive the Annual Compiler Upgrade?](https://gunnarku.github.io/preprints/msr-2026-compiler-upgrades.pdf)
+* MSR Industry 2026 [Underutilization in Research GPU Clusters: SE Challenges](https://gunnarku.github.io/preprints/msr-2026-compiler-upgrades.pdf)
+* ISSTA 2025 [PatchScope–A Modular Tool for Annotating and Analyzing Contributions](https://dl.acm.org/doi/pdf/10.1145/3713081.3731727)
+- MSR Challange 2025 *[Out of Sight, Still at Risk: The Lifecycle of Transitive Vulnerabilities in Maven](https://doi.org/10.1109/MSR66628.2025.00060)* ([arXiv:2504.04803](https://arxiv.org/abs/2504.04803))
+- MSR Data and Tools 2025 *[HaPy-Bug - Human Annotated Python Bug Resolution Dataset](https://doi.org/10.1109/MSR66628.2025.00024)* ([arXiv:2504.04810](https://arxiv.org/abs/2504.04810))
+- MSR Challange 2024 *[How I Learned to Stop Worrying and Love ChatGPT](https://doi.org/10.1145/3643991.3645073)*
+- MSR Challange 2023 *[The Secret Life of CVEs](https://doi.org/10.1109/MSR59073.2023.00056)* ([arXiv:2504.03863](https://arxiv.org/abs/2504.03863))
 - *[Tracking Buggy Files: New Efficient Adaptive Bug Localization Algorithm](https://doi.org/10.1109/TSE.2021.3064447)*
 - *[Profile based recommendation of code reviewers](https://link.springer.com/article/10.1007/s10844-017-0484-1)*
 - *[Fast JSON Parsing with GPU Metaprogramming](https://ieeexplore.ieee.org/document/10032381)*
